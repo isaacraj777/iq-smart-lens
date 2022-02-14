@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Smart Lens",
+  "name": "Risk Adjustment tool to aid providers determine their true RAF Score. iQuartic focuses on developing tools specific to the healthcare industry",
   "icons": [
     {
       "src": "favicon.ico",
